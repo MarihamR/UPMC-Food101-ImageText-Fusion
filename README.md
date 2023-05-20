@@ -1,1 +1,1 @@
-# Food101-Pytorch
+# Food101-ImageText-Fusion
