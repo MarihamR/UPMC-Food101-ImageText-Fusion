@@ -1,1 +1,1 @@
-# Food101-ImageText-Fusion
+# UPMC-Food101-ImageText-Fusion
