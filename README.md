@@ -4,7 +4,7 @@
 
 
 ## Results
-| Model                | Binary-class Accuracy |
+| Model                |       Accuracy        |
 | -------------------- | --------------------- |
 | Image: ViT           |        72.83%         |
 | Text: BERT           |        85.28%         |
