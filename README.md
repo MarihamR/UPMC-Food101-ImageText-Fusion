@@ -22,7 +22,7 @@
 <td> Text: BERT </td>
 <td> 85.28% </td></tr> 
 <td> Late Fusion </td>
-<td> **93.83%**  </td></tr> 
+<td> <strong> 93.83% </td></tr> 
   
 </table>
 
