@@ -18,12 +18,12 @@
 <tr>
 
 <td> Image: ViT </td>
-<td> 72.83% </td>
+<td> 72.83% </td></tr> 
 <td> Text: BERT </td>
-<td> 85.28% </td>
+<td> 85.28% </td></tr> 
 <td> Late Fusion </td>
-<td> **93.83%**  </td>
+<td> **93.83%**  </td></tr> 
   
- </tr> </table>
+</table>
 
 
