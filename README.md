@@ -10,4 +10,21 @@
 | Text: BERT           |        85.28%         |
 | Late Fusion          |        **93.83%**     |
 
+<table>
+<tr>
+<th>Model  </th>
+<th> Accuracy </th>
+</tr>
+<tr>
+
+<td>
+
+Image: ViT
+
+</td><td>
+
+72.83% 
+
+</td></tr> </table>
+
 
