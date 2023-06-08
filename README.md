@@ -7,6 +7,8 @@
 - Also Custom dataset for multimodal dataset is implemented in Pytorch in: [UMPC_Dataset.py](UMPC_Dataset.py)
 - Also some preprocessing were implemented on original CSV files and new processed CSV files are saved in: [UMPC_Dataset_Analysis.ipynb](UMPC_Dataset_Analysis.ipynb)
 
+## Dataset Sample (Image+Text Caption)
+![Img_txtpair.png](Img_txtpair.png)
 
 ## Results
 <table>
