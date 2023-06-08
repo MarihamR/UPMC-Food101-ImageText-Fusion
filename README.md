@@ -5,6 +5,7 @@
 - Textual modality is implemented in: [UMPC_Text.ipynb](UMPC_Text.ipynb)
 - Multimodal Fusion is implemented in: [UMPC_Fusion_ImgTxt.ipynb](UMPC_Fusion_ImgTxt.ipynb)
 - Also Custom dataset for multimodal dataset is implemented in Pytorch in: [UMPC_Dataset.py](UMPC_Dataset.py)
+- Also some preprocessing were implemented on original CSV files and new processed CSV files are saved in: [UMPC_Dataset_Analysis.ipynb](UMPC_Dataset_Analysis.ipynb)
 
 
 ## Results
